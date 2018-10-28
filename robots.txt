@@ -1,0 +1,9 @@
+User-agent: *
+Crawl-delay: 40
+Allow: /
+Sitemap: http://www.tiptopunit.github.io/morsel/sitemap.xml
+Sitemap: http://tiptopunit.github.io/morsel/sitemap.xml
+Host: http://tiptopunit.github.io/morsel
+Host: http://www.tiptopunit.github.io/morsel
+Host: http://tiptopunit.github.io/morsel/index.html
+Host: http://www.tiptopunit.github.io/morsel/index.html
