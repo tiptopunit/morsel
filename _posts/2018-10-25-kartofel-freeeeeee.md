@@ -28,7 +28,7 @@ How about a yummy crepe?
 
 ![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-![Crepe](https://tiptopunit.github.io/next/img/kpl7.jpg)
+![Crepe](https://tiptopunit.github.io/next/img/25.jpg)
 Картофель, не очищая от кожуры, хорошо промыть.
 Неочищенную морковь тоже хорошо вымыть.
 Положить овощи в кастрюлю, залить водой, довести до кипения и варить при слабом кипении 1-1,5 часа, до мягкости овощей (но не разваривая).
